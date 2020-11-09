@@ -1,0 +1,23 @@
+ID:            1
+NOMBRE:        7UP
+DESCRIPCION:   REFRESCO SABOR LIMA-LIMON DE 355ML
+PRECIO:        12
+CANTIDAD:      36
+CODIGO:        1501022013915
+ESTATUS:       true
+-----------------------------------------------------------------------------------------
+ID:            2
+NOMBRE:        IPHONE XS
+DESCRIPCION:   IPHONE MODELO XS
+PRECIO:        12000
+CANTIDAD:      2
+CODIGO:        1564893781
+ESTATUS:       true
+-----------------------------------------------------------------------------------------
+ID:            3
+NOMBRE:        VASO DE VIDRIO
+DESCRIPCION:   VASO
+PRECIO:        20
+CANTIDAD:      15
+CODIGO:        1234567890
+ESTATUS:       true

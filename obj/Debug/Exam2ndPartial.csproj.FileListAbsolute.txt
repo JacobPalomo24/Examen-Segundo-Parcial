@@ -1,0 +1,7 @@
+C:\Users\jocel\source\repos\Exam2ndPartial\bin\Debug\Exam2ndPartial.exe.config
+C:\Users\jocel\source\repos\Exam2ndPartial\bin\Debug\Exam2ndPartial.exe
+C:\Users\jocel\source\repos\Exam2ndPartial\bin\Debug\Exam2ndPartial.pdb
+C:\Users\jocel\source\repos\Exam2ndPartial\obj\Debug\Exam2ndPartial.csprojAssemblyReference.cache
+C:\Users\jocel\source\repos\Exam2ndPartial\obj\Debug\Exam2ndPartial.csproj.CoreCompileInputs.cache
+C:\Users\jocel\source\repos\Exam2ndPartial\obj\Debug\Exam2ndPartial.exe
+C:\Users\jocel\source\repos\Exam2ndPartial\obj\Debug\Exam2ndPartial.pdb
